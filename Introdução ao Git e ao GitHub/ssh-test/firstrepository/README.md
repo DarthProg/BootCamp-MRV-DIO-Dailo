@@ -1,2 +1,0 @@
-# firstrepository
-primeiro arquivo testando
