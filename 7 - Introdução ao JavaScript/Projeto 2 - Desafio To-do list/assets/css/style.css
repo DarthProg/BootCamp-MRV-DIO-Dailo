@@ -1,0 +1,119 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;600&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Licorice&display=swap');
+
+body {
+    font-family: 'Licorice';
+    background-color: rgb(177, 225, 255);
+}
+    
+label {
+        text-decoration: none;
+    }
+
+input[type=checkbox]:checked + span {
+    text-decoration: line-through;
+}
+
+/*.feito {
+    text-decoration: none;
+}
+
+.clicado {
+    text-decoration: line-through;
+}
+.naoclicado {
+    text-decoration: none;
+}
+*/
+
+#cabecalho {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    margin: 0 20px;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 14pt;
+    
+}
+
+#inicial {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    margin: 0 20px;
+    font-size: 20pt;
+}
+
+#input1 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: row;
+    margin: 0 20px;
+    font-size: 14pt;
+    
+}
+
+#insert {
+    height: 35px;
+    width: 400px;
+    border: 2px solid green;
+    background-color: yellow;
+    color: black;
+    font-size: 10pt;
+    font-weight: 600;   
+}
+
+button {
+    height: 40px;
+    width: 100px;
+    border-radius: 10%;
+    border: 2px solid green;
+    background-color: lightgreen;
+    color: black;
+    font-size: 10pt;
+    font-weight: 600;
+    text-align: center;
+    margin-left: 5px;
+}
+
+#tarefas {
+    display: flex;
+    align-items: left;
+    justify-content: center;
+    flex-direction: column;
+    margin: 0;
+    padding: 20px;
+    font-size: 30pt;
+}
+
+ul {
+    margin: 0;
+    padding: 10px;
+}
+
+li {
+    list-style-type: square;
+    margin: 0 0 0 35px;
+}
+
+p {
+    margin: 0;
+    padding: 10px;
+}
+
+.close {
+    height: 30px;
+    width: 80px;
+    border-radius: 20%;
+    border: 2px solid red;
+    background-color: lightcoral;
+    color: black;
+    font-size: 10pt;
+    font-weight: 600;
+    text-align: center;
+    margin-left: 5px; 
+}
+
