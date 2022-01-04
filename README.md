@@ -4,8 +4,6 @@ Repositório criado para conter todos arquivos do Bootcamp MRV Fullstack Develop
 
 ## Quem sou eu 👋:
 
-<style> body{text-align: justify}</style>
-
 Meu nome é Dailo Gonçalves de Aquino Júnior, tenho 43 anos, estou cursando Engenharia de Software e realizando pós-graduação em Desenvolvimento de Sistema com Python.
 
 Já possuo uma formação acadêmica em "Ciências Militares", pela Academia da Força Aérea. Sou Tenente-Coronel de Infantaria da Aeronáutica.
@@ -16,7 +14,7 @@ Na Força Aérea Brasileira, chefiei setores de TI nas Bases Aéreas de Porto Ve
 - Webdesigner (Fireworks e Dreamweaver), no SENAC de Porto Velho;
 - Desenvolvedor de Softwares em Linguagem PHP - Target Trust em Porto Alegre;
 - Administrador de Banco de Dados PostgreSQL - Target Trust em Porto Alegre; e
-- Formação JAVA - JEE1 JSP E SERVLETS, JEE2 JSTL, DAO E JSF - em Porto Alegre.
+- Formação JAVA - JEE1 JSP E SERVLETS, JEE2 JSTL, DAO E JSF - Alfamídia em Porto Alegre.
 
 De 2010 até 2021 permaneci fora da área de TI, sendo porém o desenvolvimento de softwares minha verdadeira paixão. Somente agora, em 2021, pude reativar essa paixão e decidi pela Graduação em Engenharia de Software e início da Pós-Graduação também (pois já tenho formação acadêmica) e me dedicar de corpo e alma ao que eu amo fazer.
 
