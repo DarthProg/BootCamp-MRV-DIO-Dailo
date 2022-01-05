@@ -4,7 +4,7 @@ Repositório criado para conter todos arquivos do Bootcamp MRV Fullstack Develop
 
 ## Quem sou eu 👋:
 
-Meu nome é Dailo Gonçalves de Aquino Júnior, tenho 43 anos, estou cursando Engenharia de Software e realizando pós-graduação em Desenvolvimento de Sistema com Python.
+Meu nome é Dailo Gonçalves de Aquino Júnior, tenho 43 anos, estou cursando Engenharia de Software e realizando pós-graduação em Desenvolvimento de Sistemas com Python.
 
 Já possuo uma formação acadêmica em "Ciências Militares", pela Academia da Força Aérea. Sou Tenente-Coronel de Infantaria da Aeronáutica.
 
